@@ -11,7 +11,7 @@
   <summary><h3 align="center">Languages</h3></summary>
             <p align="center">
         <a href="https://github.com/nbchand/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbchand&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          <img src="https://github-readme-stats-nbchand.vercel.app/api/top-langs/?username=nbchand&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="nbchand :: overall Top Langs " /></a>
       </p>
         <p align="center">
