@@ -5,7 +5,7 @@
 </div><hr>
   <div>
   <samp>
-    <h2 align="center"> Github Stats: </h2><hr>
+    <h2 align="center"> Github Stats: </h2>
       <br/>
 
   <summary><h3 align="center">Languages</h3></summary>
@@ -37,14 +37,14 @@
 <div>
   <samp>
   <br/><hr>
-  <h2 align="center"> Latest contribution: </h2><hr>
+  <h2 align="center"> Latest contribution: </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Nabin's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nbchand&theme=github-compact&hide_border=true" /></a>
   </samp>
 </div><br/><hr>
 
 <div>
-  <h2 align="center"> Achievements: </h2><hr>
+  <h2 align="center"> Achievements: </h2>
 
 [![An image of @nbchand's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nbchand)](https://holopin.io/@nbchand)
 
@@ -53,7 +53,7 @@
 <hr>
 <div>
   <samp>
-    <h2 align="center">You can reach me by:</h2><hr>
+    <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/nbchand/" target="blank"><img align="center"
