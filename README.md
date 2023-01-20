@@ -39,7 +39,7 @@
   <br/><hr>
   <h2 align="center"> Latest contribution: </h2><hr>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Nabin's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=nbchand&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+  <img alt="Nabin's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nbchand&theme=github-compact&hide_border=true" /></a>
   </samp>
 </div><br/><hr>
 
