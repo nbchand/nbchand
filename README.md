@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hello <img width="35" src="https://github.com/nbchand/nbchand/blob/main/resources/img/waving.gif">, I'm Nabin Chand : D</h1>
-<p align="center"><i>A <b>Software Engineering student</b> at <b>Nepal College of Information Technology(NCIT)</b> currently brewing <b>Java</b> <img width="35" src="https://github.com/nbchand/nbchand/blob/main/resources/img/java.gif">
+<p align="center"><i>A <b>Software Engineering student</b> at <b>Nepal College of Information Technology(NCIT)</b> currently brewing <b>Java</b> <img height="20" width="35" src="https://github.com/nbchand/nbchand/blob/main/resources/img/java.gif">
 </i></p>
 </div><hr>
   <div>
